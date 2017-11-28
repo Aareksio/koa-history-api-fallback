@@ -1,0 +1,22 @@
+{
+  "name": "@doctormole/koa-history-api-fallback",
+  "version": "1.0.0",
+  "description": "No configuration, dependency free, koa2 history-api-fallback middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "koa2",
+    "koajs",
+    "spa",
+    "history",
+    "api",
+    "fallback",
+    "history-api",
+    "history-api-fallback"
+  ],
+  "author": "Arkadiusz 'Mole' Sygulski <arkadiusz@sygulski.pl> (https://sygulski.pl)",
+  "license": "MIT"
+}
