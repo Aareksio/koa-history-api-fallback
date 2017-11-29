@@ -17,6 +17,10 @@
     "history-api",
     "history-api-fallback"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aareksio/koa-history-api-fallback"
+  },
   "author": "Arkadiusz 'Mole' Sygulski <arkadiusz@sygulski.pl> (https://sygulski.pl)",
   "license": "MIT"
 }
